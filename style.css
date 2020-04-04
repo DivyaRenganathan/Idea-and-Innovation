@@ -1,0 +1,30 @@
+body{
+
+
+  margin: 0 0;
+  background-color: #f8b400;
+}
+h1{
+  text-align: center;
+}
+
+hr{
+  width: 25%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #faf5e4;
+  border-width: 5px;
+
+}
+img{
+  width:550px ;
+  margin: 0;
+
+}
+.row{
+  text-align: center;
+  line-height: 2;
+}
+#d1{
+  background-color: black;
+}
